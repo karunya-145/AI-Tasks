@@ -35,5 +35,5 @@ Only the above three features are added to the application.<br>
 The code for the features BLUR and BRIGHTNESS was referred to the YouTube channel 'PyShine'.<br>
 The code for SHARPNESS was then implemented from the knowledge and idea gained from doing the previous codes.<br>
 Initially when the the code had only two features, it worked perfectly. But after adding the third feature it didn't gave the result properly. I am still trying to figure it out.<br>
-I am attaching the photos of the working of the code for BLUR and BRIGHTNESS as the code for SHARPNESS is not working properly.<br>
+I am attaching the video of the working of the code for BLUR and BRIGHTNESS as the code for SHARPNESS is not working properly.<br>
 
